@@ -1,0 +1,22 @@
+{
+    "name": "magelearn/module-clear-cart",
+    "description": "Add empty cart button in minicart magento2.",
+    "type": "magento2-module",
+    "require": {},
+    "authors": [
+        {
+            "name": "vijay rami",
+            "email": "vijaymrami@gmail.com"
+        }
+    ],
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magelearn\\ClearCart\\": ""
+        }
+    }
+}
