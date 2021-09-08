@@ -18,3 +18,7 @@ Add empty cart button in minicart magento2.
 [![Screenshot-from-2021-09-02-10-23-05.png](https://i.postimg.cc/Hj1nrpGr/Screenshot-from-2021-09-02-10-23-05.png)](https://postimg.cc/n9Tp5fhx)
 
 [![Screenshot-from-2021-09-02-10-24-15.png](https://i.postimg.cc/bwHLgTR5/Screenshot-from-2021-09-02-10-24-15.png)](https://postimg.cc/yDxFY0th)
+
+## Referances:
+
+https://knockoutjs.com/documentation/template-binding.html#note-4-using-afterrender-afteradd-and-beforeremove (Note 4)
